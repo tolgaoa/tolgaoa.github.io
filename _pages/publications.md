@@ -11,10 +11,6 @@ author_profile: true
 	**Tolga O. Atalay**, Sudip Maitra, Dragoslav Stojadinovic, Angelos Stavrou, Haining Wang <br>
 	IEEE Conference on Computer Communications (INFOCOM) 2023
 
-- <span style="color: #8B0000;">**Demystifying 5G Traffic Patterns with an Indoor RAN Measurement Campaign**</span> <br>
-	**Tolga O. Atalay**, Alireza Famili, Dragoslav Stojadinovic, Angelos Stavrou, Haining Wang <br>
-	IEEE Global Communications Conference (GLOBECOM) 2023
-
 - <span style="color: #8B0000;">**Wi-Five: Optimal Placement of Wi-Fi Routers in 5G Networks for Indoor Drone Navigation**</span><br>
 	Alireza Famili, **Tolga O. Atalay**, Angelos Stavrou, Haining Wang <br>
 	IEEE Vehicular Technology Conference (VTC) 2023
