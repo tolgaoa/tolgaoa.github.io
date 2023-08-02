@@ -1,7 +1,9 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "5G Core Public Cloud Measurements"
+excerpt: "Investigating the Control and User Plane Implications Associated with 5G Core Deployments in the Public Cloud<br/><img src='/images/measov2.png' width='500' height='300'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+<br/><img src='/images/measdet2.png'><br>
+
+The Fifth Generation (5G) mobile core network is implemented as a set of Virtual Network Functions (VNFs) hosted on Commercial-Off-the-Shelf (COTS) hardware. This creates growing demand for general-purpose compute resources as 5G deployments continue to expand. Given their existing infrastructures, cloud providers such as Amazon Web Services (AWS) are attractive platforms to address this need. Therefore, it is crucial to understand the control and user plane Quality of Service (QoS) implications associated with deploying the 5G core on top of AWS. To this end, we construct a 5G testbed with open-source components spanning multiple locations within the AWS infrastructure. Using different core deployment strategies by shuffling VNFs into AWS edge zones, an operational breakdown of the latency overhead is conducted for 5G procedures. Our results show that moving specific VNFs into edge regions reduces the latency overhead for key 5G operations. We instantiate multiple user plane connections between availability zones and edge regions with different traffic loads. As more data sessions are instantiated, we observe that the deterioration of connection quality varies depending on traffic load. Ultimately, our findings provide new insights for Mobile Virtual Network Operators (MVNO) to determine favorable placements of their 5G core entities in the cloud.
