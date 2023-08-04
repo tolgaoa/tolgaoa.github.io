@@ -25,7 +25,10 @@ B.Sc. in Electrical and Electronics Engineering (2012 - 2016), _Bilkent Universi
 
 
 News
- - [8/5] Our work "Demystifying 5G Traffic Patterns with an Indoor RAN Measurement Campaign" has been accepted to Globecom 2023
 ======
+
+ - [8/5] Our work "Demystifying 5G Traffic Patterns with an Indoor RAN Measurement Campaign" has been accepted to Globecom 2023
+
  - [6/28] Received Best Paper Award at IEEE Metaverse Computing, Networking and Applications (METACOM) 2023 along with [Alireza Famili](afamili93.github.io)
+
  - [5/16] Presented our work "Securing 5G OpenRAN with a Scalable Authorization Framework for xApps" at INFOCOM 2023
