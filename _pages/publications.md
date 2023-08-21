@@ -11,6 +11,10 @@ author_profile: true
 	**Tolga O. Atalay**, Sudip Maitra, Dragoslav Stojadinovic, Angelos Stavrou, Haining Wang <br>
 	IEEE Conference on Computer Communications (INFOCOM) 2023
 
+- <span style="color: #8B0000;">**OFDM-RA: Optimal Femtocell Deployment for Accurate Indoor Positioning of RIS-Mounted AVs** </span><br>
+	Alireza Famili, **Tolga O. Atalay**, Angelos Stavrou, Haining Wang <br>
+	IEEE Journal on Selected Areas in Communication (JSAC) 2023
+
 - <span style="color: #8B0000;">**Demystifying 5G Traffic Patterns with an Indoor RAN Measurement Campaign** </span><br>
 	**Tolga O. Atalay**, Alireza Famili, Dragoslav Stojadinovic, Angelos Stavrou <br>
 	IEEE Global Communications Conference (GLOBECOM) 2023
