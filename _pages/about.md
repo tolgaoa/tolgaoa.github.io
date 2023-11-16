@@ -7,6 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src='/images/home_back.png'><br>
 
 I am a Ph.D. candidate at [Bradley Department of Electrical and Computer Engineering, Virginia Tech](https://ece.vt.edu/) supervised by Professor [Angelos Stavrou](https://ece.vt.edu/people/profile/angelos.html) and Professor [Haining Wang](https://ece.vt.edu/people/profile/hnw.html) in the Network and Software Security Lab (NSSL). My research interests are 5G core networks, O-RAN, cloud computing and system security.
 
@@ -17,7 +18,7 @@ Before joining Virginia Tech, I received by M.Sc. from [Danmarks Tekniske Univer
 Education
 ======
 
-Ph.D. in Computer Engineering (2018 - Present), _Virginia Tech_
+Ph.D. in Computer Engineering (2018 - June 2024), _Virginia Tech_
 
 M.Sc. in Telecommunications (2016 - 2018), _Danmarks Tekniske Universitet (DTU)_
 
@@ -26,6 +27,8 @@ B.Sc. in Electrical and Electronics Engineering (2012 - 2016), _Bilkent Universi
 
 News
 ======
+
+ - [10/11] Our work "OFDRA: Optimal Femtocell Deployment for Accurate Indoor Positioning of RIS-Mounted AVs", led by [Alireza Famili](https://afamili93.github.io), has been published in the IEEE Journal on Selected Areas in Communications (JSAC) 
 
  - [8/5] Our work "Demystifying 5G Traffic Patterns with an Indoor RAN Measurement Campaign" has been accepted to Globecom 2023
 
