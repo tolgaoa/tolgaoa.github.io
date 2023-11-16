@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/home_back.png'><br>
+<img src='/images/bigcityback.png'><br>
 
 I am a Ph.D. candidate at [Bradley Department of Electrical and Computer Engineering, Virginia Tech](https://ece.vt.edu/) supervised by Professor [Angelos Stavrou](https://ece.vt.edu/people/profile/angelos.html) and Professor [Haining Wang](https://ece.vt.edu/people/profile/hnw.html) in the Network and Software Security Lab (NSSL). My research interests are 5G core networks, O-RAN, cloud computing and system security.
 
