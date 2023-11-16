@@ -1,9 +1,14 @@
-.caption-style {
-    font-size: 8px;
-    color: #333;
-    text-align: center;
-    /* Add other styling properties as needed */
-}
+<head>
+    <!-- Other head elements -->
+    <style>
+        .caption-style {
+            font-size: 8px;
+            color: #333;
+            text-align: center;
+            /* Other styling properties as needed */
+        }
+    </style>
+</head>
 
 ---
 permalink: /
