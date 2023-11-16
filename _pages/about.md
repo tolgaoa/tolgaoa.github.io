@@ -1,3 +1,10 @@
+.caption-style {
+    font-size: 8px;
+    color: #333;
+    text-align: center;
+    /* Add other styling properties as needed */
+}
+
 ---
 permalink: /
 title: "About Me"
@@ -7,7 +14,12 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src='/images/bigcityback.png'><br>
+d<img src='/images/bigcityback.png'><br>
+
+<figure>
+    <img src="/images/bigcityback.png">
+    <figcaption class="caption-style">Created using DALL-E: {5G, cloud computing, networking}</figcaption>
+</figure>
 
 I am a Ph.D. candidate at [Bradley Department of Electrical and Computer Engineering, Virginia Tech](https://ece.vt.edu/) supervised by Professor [Angelos Stavrou](https://ece.vt.edu/people/profile/angelos.html) and Professor [Haining Wang](https://ece.vt.edu/people/profile/hnw.html) in the Network and Software Security Lab (NSSL). My research interests are 5G core networks, O-RAN, cloud computing and system security.
 
