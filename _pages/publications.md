@@ -11,6 +11,10 @@ author_profile: true
 	**Tolga O. Atalay**, Sudip Maitra, Dragoslav Stojadinovic, Angelos Stavrou, Haining Wang <br>
 	IEEE Conference on Computer Communications (INFOCOM) 2023
 
+- <span style="color: #8B0000;">**5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices** </span> <br>
+	Pragya Sharma, **Tolga O. Atalay**, Hans-Andrew Gibbs, Dragoslav Stojadinovic, Angelos Stavrou, Haining Wang <br>
+	IEEE Conference on Computer Communications (INFOCOM) 2024
+
 - <span style="color: #8B0000;">**OFDM-RA: Optimal Femtocell Deployment for Accurate Indoor Positioning of RIS-Mounted AVs** </span><br>
 	Alireza Famili, **Tolga O. Atalay**, Angelos Stavrou, Haining Wang <br>
 	IEEE Journal on Selected Areas in Communication (JSAC) 2023
@@ -27,6 +31,10 @@ author_profile: true
 	Alireza Famili, **Tolga O. Atalay**, Angelos Stavrou, Haining Wang <br>
 	IEEE International Conference on Metaverse Computing, Networking and Applications (METACOM) 2023 <br>
 	**BEST PAPER AWARD**
+
+- <span style="color: #8B0000;">**5GPS: 5G Femtocell Placement Strategies for Ultra-Precise Indoor Localization in the Metaverse**</span><br>
+	Alireza Famili, **Tolga O. Atalay**, Angelos Stavrou <br>
+	IEEE International Conference on Computing, Networking and Communications (ICNC) 2024
 
 - <span style="color: #8B0000;">**Network-Slice-as-a-Service Deployment Cost Assessment in an End-to-End 5G Testbed** [\[code\]](https://github.com/tolgaoa/devdep5g) </span><br>
 	**Tolga O. Atalay**, Dragoslav Stojadinovic, Alireza Famili, Angelos Stavrou, Haining Wang <br>
