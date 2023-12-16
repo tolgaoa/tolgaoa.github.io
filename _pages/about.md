@@ -33,6 +33,8 @@ News
 
  - [10/11] Our work "OFDRA: Optimal Femtocell Deployment for Accurate Indoor Positioning of RIS-Mounted AVs", led by [Alireza Famili](https://afamili93.github.io), has been published in the IEEE Journal on Selected Areas in Communications (JSAC) 
 
+ - [9/28] I passed  my PhD Preliminary Exam!
+
  - [8/5] Our work "Demystifying 5G Traffic Patterns with an Indoor RAN Measurement Campaign" has been accepted to GlOBECOM 2023
 
  - [6/28] We received Best Paper Award at IEEE Metaverse Computing, Networking and Applications (METACOM) 2023 along with [Alireza Famili](https://afamili93.github.io)
