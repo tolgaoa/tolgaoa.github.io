@@ -6,6 +6,9 @@ author_profile: true
 ---
  \* - co-primary author
 
+- <span style="color: #8B0000;">**Towards Shielding 5G Control Plane Functions** </span> <br>
+	Sudip Maitra*, **Tolga O. Atalay***, Angelos Stavrou, Haining Wang <br>
+	IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2024
 
 - <span style="color: #8B0000;">**Securing 5G OpenRAN with a Scalable Authorization Framework for xApps** </span> [\[code\]](https://github.com/tolgaoa/xrfoauth) <br>
 	**Tolga O. Atalay**, Sudip Maitra, Dragoslav Stojadinovic, Angelos Stavrou, Haining Wang <br>

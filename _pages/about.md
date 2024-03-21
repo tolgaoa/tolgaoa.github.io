@@ -27,16 +27,18 @@ B.Sc. in Electrical and Electronics Engineering (2012 - 2016), _Bilkent Universi
 
 News
 ======
- - [11/30] Our work "5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices" has been accepted to INFOCOM 2024
+ - [3/20/2024] Our work "Towards Shielding 5G Control Plane Functions" has been accepted to DSN 2024
+ 
+ - [11/30/2023] Our work "5G-WAVE: A Core Network Framework with Decentralized Authorization for Network Slices" has been accepted to INFOCOM 2024
 
- - [11/26] Our work "5GPS: 5G Femtocell Placement Strategies for Ultra-Precise Indoor Localization in the Metaverse", led by [Alireza Famili](https://afamili93.github.io), has been accepted to International Conference on Computing, Networking and Communications (ICNC) 2024
+ - [11/26/2023] Our work "5GPS: 5G Femtocell Placement Strategies for Ultra-Precise Indoor Localization in the Metaverse", led by [Alireza Famili](https://afamili93.github.io), has been accepted to International Conference on Computing, Networking and Communications (ICNC) 2024
 
- - [10/11] Our work "OFDRA: Optimal Femtocell Deployment for Accurate Indoor Positioning of RIS-Mounted AVs", led by [Alireza Famili](https://afamili93.github.io), has been published in the IEEE Journal on Selected Areas in Communications (JSAC) 
+ - [10/11/2023] Our work "OFDRA: Optimal Femtocell Deployment for Accurate Indoor Positioning of RIS-Mounted AVs", led by [Alireza Famili](https://afamili93.github.io), has been published in the IEEE Journal on Selected Areas in Communications (JSAC) 
 
- - [9/28] I passed  my PhD Preliminary Exam!
+ - [9/28/2023] I passed my PhD Preliminary Exam!
 
- - [8/5] Our work "Demystifying 5G Traffic Patterns with an Indoor RAN Measurement Campaign" has been accepted to GlOBECOM 2023
+ - [8/5/2023] Our work "Demystifying 5G Traffic Patterns with an Indoor RAN Measurement Campaign" has been accepted to GlOBECOM 2023
 
- - [6/28] We received Best Paper Award at IEEE Metaverse Computing, Networking and Applications (METACOM) 2023 along with [Alireza Famili](https://afamili93.github.io)
+ - [6/28/2023] We received Best Paper Award at IEEE Metaverse Computing, Networking and Applications (METACOM) 2023 along with [Alireza Famili](https://afamili93.github.io)
 
- - [5/16] We presented our work "Securing 5G OpenRAN with a Scalable Authorization Framework for xApps" at INFOCOM 2023
+ - [5/16/2023] We presented our work "Securing 5G OpenRAN with a Scalable Authorization Framework for xApps" at INFOCOM 2023
