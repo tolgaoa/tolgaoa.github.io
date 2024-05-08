@@ -6,6 +6,10 @@ author_profile: true
 ---
  \* - co-primary author
 
+- <span style="color: #8B0000;">**RAPID: Reinforcement Learning-Aided Femtocell Placement for Indoor Drone Localization**</span><br>
+	Alireza Famili, Amin Tabrizian, **Tolga O. Atalay**, Angelos Stavrou <br>
+	IEEE Vehicular Technology Conference (VTC) 2023
+
 - <span style="color: #8B0000;">**Towards Shielding 5G Control Plane Functions** </span> <br>
 	Sudip Maitra*, **Tolga O. Atalay***, Angelos Stavrou, Haining Wang <br>
 	IEEE/IFIP International Conference on Dependable Systems and Networks (DSN) 2024
