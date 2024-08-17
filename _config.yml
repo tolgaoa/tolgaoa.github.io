@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Tolga O. Atalay"
 title_separator          : "-"
 name                     : &name "Tolga O. Atalay"
-description              : &description "Ph.D. Candidate @Virginia Tech"
+description              : &description "Senior R&D @A12XT Inc"
 url                      : https://tolgaoa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "tolgaoa/tolgaoa.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Tolga O. Atalay"
   avatar           : "tolgaatalay2.png"
-  bio              : "Ph.D. Candidate @Virginia Tech"
+  bio              : "Senior R&D Engineer @A12XT Inc"
   location         : "Arlington, VA"
   employer         :
   pubmed           : 
