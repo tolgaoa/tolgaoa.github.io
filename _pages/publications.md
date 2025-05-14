@@ -5,9 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 - <span style="color: #8B0000;">**5G-MAP: Demystifying the Performance Implications of Cloud-Based 5G Core Deployments**</span><br>
 	**Tolga O. Atalay**, Dragoslav Stojadinovic, ALireza Famili, Angelos Stavrou, Haining Wang <br>
 	ACM Annual International Conference on Mobile Computing and Networking (MobiCom) 2025
+
+- <span style="color: #8B0000;">**Envisioning the Next-Generation Cellular Architecture with Named Data Networking**</span><br> **Tolga O. Atalay**, Angelos Stavrou, Lixia Zhang <br>
+	IEEE Computer 2025
 
 - <span style="color: #8B0000;">**5G-STREAM: 5G Service Mesh Tailored for Reliable, Efficient and Authorized Microservices in the Cloud** </span> <br>
 	**Tolga O. Atalay**, Alireza Famili, Sudip Maitra, Dragoslav Stojadinovic, Angelos Stavrou, Haining Wang <br>
